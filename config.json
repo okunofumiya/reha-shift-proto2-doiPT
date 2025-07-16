@@ -1,0 +1,9 @@
+{
+  "role_rules": {
+    "sunday_off": []
+  },
+  "holiday_rules": {
+    "saturday_is_special": true,
+    "national_holiday_is_special": true
+  }
+}
