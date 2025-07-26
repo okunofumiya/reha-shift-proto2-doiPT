@@ -4,3 +4,4 @@ numpy
 ortools
 python-dateutil
 openpyxl
+jpholiday
