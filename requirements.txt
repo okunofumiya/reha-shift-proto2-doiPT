@@ -5,3 +5,4 @@ ortools
 python-dateutil
 openpyxl
 jpholiday
+streamlit-gsheets-connection
